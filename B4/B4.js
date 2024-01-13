@@ -21,7 +21,7 @@ let classRoom = [
   console.log("Câu 1:", separatedNames);
   
   // Câu 2: Thêm một sinh viên vào vị trí bất kỳ trong mảng
-  let newStudent = "Nguyễn Văn A";
+  let newStudent = "Nguyễn Văn AA";
   let positionToAdd = 3;
   classRoom.splice(positionToAdd, 0, newStudent);
   
